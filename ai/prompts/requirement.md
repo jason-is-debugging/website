@@ -394,6 +394,7 @@ CREATE TABLE settings (
 | 1.6 | 配置 SQLite 数据库连接 | `database.go` |
 | 1.7 | 创建数据库表结构 | SQL 初始化脚本 |
 | 1.8 | 配置 CORS 中间件 | `middleware/cors.go` |
+| 1.9 | 实现基本前端界面 | 前端界面设计 |
 
 ---
 
